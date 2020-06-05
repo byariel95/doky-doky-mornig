@@ -11,6 +11,7 @@ import Footer from './Footer.svelte';
   }
   .Sidebar-container {
     position: fixed;
+    width: 15%;
   }
 </style>
 
