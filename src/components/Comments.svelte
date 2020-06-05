@@ -40,6 +40,7 @@
     display: flex;
   }
   button {
+    background-color: transparent;
     border: none;
     color: #3897f0;
     font-size: 12px;
